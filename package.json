@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@serg1506z/ajs": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
